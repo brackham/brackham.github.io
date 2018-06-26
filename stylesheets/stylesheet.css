@@ -177,6 +177,7 @@ header h1, header h1 a {
 }
 
 header h1 a:hover {
+  font-size: 50px;
   color: #c0c0c0;
   text-decoration: none;
   border-bottom: 1px dotted #c0c0c0;
@@ -184,7 +185,7 @@ header h1 a:hover {
 
 header h1 em {
   font-style: normal;
-  font-size: 68px;
+  font-size: 60px;
   color: #303030;
 }
 
