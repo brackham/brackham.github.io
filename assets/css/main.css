@@ -3915,3 +3915,11 @@ input, select, textarea {
 			}
 
 		}
+
+.tagline {
+    font-size: 1.1em;
+    font-style: italic;
+    color: #bbb;
+    margin-top: -0.5em;
+    margin-bottom: 1em;
+}
