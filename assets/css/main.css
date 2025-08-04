@@ -173,7 +173,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 1024px) {
+		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
 				font-size: 12pt;
@@ -858,7 +858,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 1024px) {
+		@media screen and (max-width: 1280px) {
 
 			.row {
 				display: flex;
@@ -3263,7 +3263,7 @@ input, select, textarea {
 
 			}
 
-			@media screen and (max-width: 1024px) {
+			@media screen and (max-width: 1280px) {
 
 				.wrapper > .inner {
 					width: 100%;
@@ -3327,7 +3327,7 @@ input, select, textarea {
 				height: 100vh;
 			}
 
-			@media screen and (max-width: 1024px) {
+			@media screen and (max-width: 1280px) {
 
 				.wrapper.fullscreen {
 					min-height: calc(100vh - 2.5em);
@@ -3512,7 +3512,7 @@ input, select, textarea {
 		margin-left: 18em;
 	}
 
-		@media screen and (max-width: 1024px) {
+		@media screen and (max-width: 1280px) {
 
 			#sidebar + #wrapper {
 				margin-left: 0;
@@ -3539,7 +3539,7 @@ input, select, textarea {
 		margin-left: 18em;
 	}
 
-		@media screen and (max-width: 1024px) {
+		@media screen and (max-width: 1280px) {
 
 			#sidebar + #wrapper + #footer {
 				margin-left: 0;
@@ -3844,7 +3844,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		@media screen and (max-width: 1024px) {
+		@media screen and (max-width: 1280px) {
 
 			#sidebar {
 				height: 3.5em;
@@ -3944,7 +3944,7 @@ input, select, textarea {
 
 			}
 
-		@media screen and (max-width: 1024px) {
+		@media screen and (max-width: 1280px) {
 
 			#intro {
 				background-attachment: scroll;
@@ -3958,4 +3958,9 @@ input, select, textarea {
     color: var(--color-lighter-gray);
     margin-top: -0.5em;
     margin-bottom: 1em;
+}
+
+/* Ensure sections scroll into view without being hidden under header */
+section[id] {
+  scroll-margin-top: 0px; /* Adjust this value if needed */
 }
