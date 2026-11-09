@@ -1,33 +1,19 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Benjamin Rackham — Personal Website
 
+Source code for my personal academic website: [brackham.github.io](https://brackham.github.io).
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+The website highlights my research in exoplanet science, stellar astrophysics, and space missions, along with my publications, scientific projects, and professional activities.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Website
 
-(* = not included)
+This is a static HTML, CSS, and JavaScript website hosted using GitHub Pages. Images are optimized using WebP for faster loading.
 
-AJ
-aj@lkn.io | @ajlkn
+## Design and Credits
 
+This website is based on **Hyperspace** by [HTML5 UP](https://html5up.net), designed by AJ ([@ajlkn](https://github.com/ajlkn)) and released under the [Creative Commons Attribution 3.0 License](https://html5up.net/license).
 
-Credits:
+The original template has been customized for my academic website.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## License
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+The original HTML5 UP template is licensed under Creative Commons Attribution 3.0. Research content, photographs, figures, and other materials may be subject to separate copyrights and licenses.
